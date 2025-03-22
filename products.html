@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Products</title>
+  <style>
+    /* Basic styling for the product cards */
+    #productsContainer {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .productCard {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 15px;
+      width: 220px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .productCard img {
+      max-width: 100%;
+      height: auto;
+      border-bottom: 1px solid #eee;
+      margin-bottom: 10px;
+    }
+    .productCard h2 {
+      font-size: 1.1em;
+      margin: 10px 0;
+    }
+    .productCard p {
+      margin: 5px 0;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Title that will display the category (if any) -->
+  <h1 id="categoryTitle"></h1>
+  
+  <!-- Container for all the product cards -->
+  <div id="productsContainer"></div>
+
+    <script src="products.js">
+      
+    </script>
+
+</body>
+</html>

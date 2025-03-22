@@ -1,0 +1,985 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "grocery",
+      "name": "Premium Basmati Rice",
+      "brand": "Royal Harvest",
+      "weight": "5 kg",
+      "price": { "current": 450, "original": 500, "discount": "10%" },
+      "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+      "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 2,
+      "category": "grocery",
+      "name": "Organic Brown Lentils",
+      "brand": "Healthy Harvest",
+      "weight": "1 kg",
+      "price": { "current": 150, "original": 180, "discount": "16%" },
+      "description": "Protein-rich brown lentils for healthy meals.",
+      "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "category": "grocery",
+        "name": "Premium Basmati Rice",
+        "brand": "Royal Harvest",
+        "weight": "5 kg",
+        "price": { "current": 450, "original": 500, "discount": "10%" },
+        "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+        "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 4,
+        "category": "grocery",
+        "name": "Organic Brown Lentils",
+        "brand": "Healthy Harvest",
+        "weight": "1 kg",
+        "price": { "current": 150, "original": 180, "discount": "16%" },
+        "description": "Protein-rich brown lentils for healthy meals.",
+        "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 5,
+        "category": "grocery",
+        "name": "Premium Basmati Rice",
+        "brand": "Royal Harvest",
+        "weight": "5 kg",
+        "price": { "current": 450, "original": 500, "discount": "10%" },
+        "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+        "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 6,
+        "category": "grocery",
+        "name": "Organic Brown Lentils",
+        "brand": "Healthy Harvest",
+        "weight": "1 kg",
+        "price": { "current": 150, "original": 180, "discount": "16%" },
+        "description": "Protein-rich brown lentils for healthy meals.",
+        "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+          "id": 7,
+          "category": "grocery",
+          "name": "Premium Basmati Rice",
+          "brand": "Royal Harvest",
+          "weight": "5 kg",
+          "price": { "current": 450, "original": 500, "discount": "10%" },
+          "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+          "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "id": 8,
+          "category": "grocery",
+          "name": "Organic Brown Lentils",
+          "brand": "Healthy Harvest",
+          "weight": "1 kg",
+          "price": { "current": 150, "original": 180, "discount": "16%" },
+          "description": "Protein-rich brown lentils for healthy meals.",
+          "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 9,
+            "category": "grocery",
+            "name": "Premium Basmati Rice",
+            "brand": "Royal Harvest",
+            "weight": "5 kg",
+            "price": { "current": 450, "original": 500, "discount": "10%" },
+            "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+            "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 10,
+            "category": "grocery",
+            "name": "Organic Brown Lentils",
+            "brand": "Healthy Harvest",
+            "weight": "1 kg",
+            "price": { "current": 150, "original": 180, "discount": "16%" },
+            "description": "Protein-rich brown lentils for healthy meals.",
+            "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+              "id": 11,
+              "category": "grocery",
+              "name": "Premium Basmati Rice",
+              "brand": "Royal Harvest",
+              "weight": "5 kg",
+              "price": { "current": 450, "original": 500, "discount": "10%" },
+              "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+              "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 12,
+              "category": "grocery",
+              "name": "Organic Brown Lentils",
+              "brand": "Healthy Harvest",
+              "weight": "1 kg",
+              "price": { "current": 150, "original": 180, "discount": "16%" },
+              "description": "Protein-rich brown lentils for healthy meals.",
+              "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 13,
+              "category": "grocery",
+              "name": "Premium Basmati Rice",
+              "brand": "Royal Harvest",
+              "weight": "5 kg",
+              "price": { "current": 450, "original": 500, "discount": "10%" },
+              "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+              "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 14,
+              "category": "grocery",
+              "name": "Organic Brown Lentils",
+              "brand": "Healthy Harvest",
+              "weight": "1 kg",
+              "price": { "current": 150, "original": 180, "discount": "16%" },
+              "description": "Protein-rich brown lentils for healthy meals.",
+              "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "id": 15,
+                "category": "grocery",
+                "name": "Premium Basmati Rice",
+                "brand": "Royal Harvest",
+                "weight": "5 kg",
+                "price": { "current": 450, "original": 500, "discount": "10%" },
+                "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+                "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 16,
+                "category": "grocery",
+                "name": "Organic Brown Lentils",
+                "brand": "Healthy Harvest",
+                "weight": "1 kg",
+                "price": { "current": 150, "original": 180, "discount": "16%" },
+                "description": "Protein-rich brown lentils for healthy meals.",
+                "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 17,
+                "category": "grocery",
+                "name": "Premium Basmati Rice",
+                "brand": "Royal Harvest",
+                "weight": "5 kg",
+                "price": { "current": 450, "original": 500, "discount": "10%" },
+                "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+                "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 18,
+                "category": "grocery",
+                "name": "Organic Brown Lentils",
+                "brand": "Healthy Harvest",
+                "weight": "1 kg",
+                "price": { "current": 150, "original": 180, "discount": "16%" },
+                "description": "Protein-rich brown lentils for healthy meals.",
+                "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                  "id": 19,
+                  "category": "grocery",
+                  "name": "Premium Basmati Rice",
+                  "brand": "Royal Harvest",
+                  "weight": "5 kg",
+                  "price": { "current": 450, "original": 500, "discount": "10%" },
+                  "description": "Long-grain, aromatic Basmati rice perfect for everyday cooking.",
+                  "image": "https://m.media-amazon.com/images/I/81FbVYZJYyL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+                {
+                  "id": 20,
+                  "category": "grocery",
+                  "name": "Organic Brown Lentils",
+                  "brand": "Healthy Harvest",
+                  "weight": "1 kg",
+                  "price": { "current": 150, "original": 180, "discount": "16%" },
+                  "description": "Protein-rich brown lentils for healthy meals.",
+                  "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+    {
+      "id": 20,
+      "category": "mobile",
+      "name": "Samsung Galaxy S23",
+      "brand": "Samsung",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "price": { "current": 49999, "original": 54999, "discount": "9%" },
+      "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+      "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+    },
+    {
+      "id": 21,
+      "category": "mobile",
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "ram": "6 GB",
+      "storage": "256 GB",
+      "price": { "current": 99999, "original": 104999, "discount": "5%" },
+      "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+      "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 22,
+        "category": "mobile",
+        "name": "Samsung Galaxy S23",
+        "brand": "Samsung",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "price": { "current": 49999, "original": 54999, "discount": "9%" },
+        "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+        "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+      },
+      {
+        "id": 23,
+        "category": "mobile",
+        "name": "iPhone 14 Pro",
+        "brand": "Apple",
+        "ram": "6 GB",
+        "storage": "256 GB",
+        "price": { "current": 99999, "original": 104999, "discount": "5%" },
+        "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+        "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 24,
+        "category": "mobile",
+        "name": "Samsung Galaxy S23",
+        "brand": "Samsung",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "price": { "current": 49999, "original": 54999, "discount": "9%" },
+        "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+        "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+      },
+      {
+        "id": 25,
+        "category": "mobile",
+        "name": "iPhone 14 Pro",
+        "brand": "Apple",
+        "ram": "6 GB",
+        "storage": "256 GB",
+        "price": { "current": 99999, "original": 104999, "discount": "5%" },
+        "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+        "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+          "id": 26,
+          "category": "mobile",
+          "name": "Samsung Galaxy S23",
+          "brand": "Samsung",
+          "ram": "8 GB",
+          "storage": "128 GB",
+          "price": { "current": 49999, "original": 54999, "discount": "9%" },
+          "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+          "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+        },
+        {
+          "id": 27,
+          "category": "mobile",
+          "name": "iPhone 14 Pro",
+          "brand": "Apple",
+          "ram": "6 GB",
+          "storage": "256 GB",
+          "price": { "current": 99999, "original": 104999, "discount": "5%" },
+          "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+          "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 28,
+            "category": "mobile",
+            "name": "Samsung Galaxy S23",
+            "brand": "Samsung",
+            "ram": "8 GB",
+            "storage": "128 GB",
+            "price": { "current": 49999, "original": 54999, "discount": "9%" },
+            "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+            "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+          },
+          {
+            "id": 29,
+            "category": "mobile",
+            "name": "iPhone 14 Pro",
+            "brand": "Apple",
+            "ram": "6 GB",
+            "storage": "256 GB",
+            "price": { "current": 99999, "original": 104999, "discount": "5%" },
+            "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+            "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+              "id": 30,
+              "category": "mobile",
+              "name": "Samsung Galaxy S23",
+              "brand": "Samsung",
+              "ram": "8 GB",
+              "storage": "128 GB",
+              "price": { "current": 49999, "original": 54999, "discount": "9%" },
+              "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+              "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+            },
+            {
+              "id": 31,
+              "category": "mobile",
+              "name": "iPhone 14 Pro",
+              "brand": "Apple",
+              "ram": "6 GB",
+              "storage": "256 GB",
+              "price": { "current": 99999, "original": 104999, "discount": "5%" },
+              "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+              "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 32,
+              "category": "mobile",
+              "name": "Samsung Galaxy S23",
+              "brand": "Samsung",
+              "ram": "8 GB",
+              "storage": "128 GB",
+              "price": { "current": 49999, "original": 54999, "discount": "9%" },
+              "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+              "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+            },
+            {
+              "id": 33,
+              "category": "mobile",
+              "name": "iPhone 14 Pro",
+              "brand": "Apple",
+              "ram": "6 GB",
+              "storage": "256 GB",
+              "price": { "current": 99999, "original": 104999, "discount": "5%" },
+              "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+              "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+                "id": 34,
+                "category": "mobile",
+                "name": "Samsung Galaxy S23",
+                "brand": "Samsung",
+                "ram": "8 GB",
+                "storage": "128 GB",
+                "price": { "current": 49999, "original": 54999, "discount": "9%" },
+                "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+                "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+              },
+              {
+                "id": 35,
+                "category": "mobile",
+                "name": "iPhone 14 Pro",
+                "brand": "Apple",
+                "ram": "6 GB",
+                "storage": "256 GB",
+                "price": { "current": 99999, "original": 104999, "discount": "5%" },
+                "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+                "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 36,
+                "category": "mobile",
+                "name": "iPhone 14 Pro",
+                "brand": "Apple",
+                "ram": "6 GB",
+                "storage": "256 GB",
+                "price": { "current": 99999, "original": 104999, "discount": "5%" },
+                "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+                "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 37,
+                "category": "mobile",
+                "name": "Samsung Galaxy S23",
+                "brand": "Samsung",
+                "ram": "8 GB",
+                "storage": "128 GB",
+                "price": { "current": 49999, "original": 54999, "discount": "9%" },
+                "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+                "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+              },
+              {
+                "id": 38,
+                "category": "mobile",
+                "name": "iPhone 14 Pro",
+                "brand": "Apple",
+                "ram": "6 GB",
+                "storage": "256 GB",
+                "price": { "current": 99999, "original": 104999, "discount": "5%" },
+                "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+                "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+              },
+              {
+                  "id": 39,
+                  "category": "mobile",
+                  "name": "Samsung Galaxy S23",
+                  "brand": "Samsung",
+                  "ram": "8 GB",
+                  "storage": "128 GB",
+                  "price": { "current": 49999, "original": 54999, "discount": "9%" },
+                  "description": "Flagship smartphone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+                  "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+                },
+                {
+                  "id": 40,
+                  "category": "mobile",
+                  "name": "iPhone 14 Pro",
+                  "brand": "Apple",
+                  "ram": "6 GB",
+                  "storage": "256 GB",
+                  "price": { "current": 99999, "original": 104999, "discount": "5%" },
+                  "description": "Advanced smartphone with A16 Bionic chip and 48MP camera.",
+                  "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+                },
+    {
+      "id": 41,
+      "category": "fashion",
+      "name": "Casual Men's Jacket",
+      "brand": "TrendyWear",
+      "size": "L",
+      "price": { "current": 2999, "original": 3499, "discount": "14%" },
+      "description": "Stylish and comfortable jacket for casual outings.",
+      "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 42,
+      "category": "fashion",
+      "name": "Women's Floral Dress",
+      "brand": "ChicStyle",
+      "size": "M",
+      "price": { "current": 2199, "original": 2599, "discount": "15%" },
+      "description": "Elegant floral dress for all occasions.",
+      "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 43,
+        "category": "fashion",
+        "name": "Casual Men's Jacket",
+        "brand": "TrendyWear",
+        "size": "L",
+        "price": { "current": 2999, "original": 3499, "discount": "14%" },
+        "description": "Stylish and comfortable jacket for casual outings.",
+        "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 44,
+        "category": "fashion",
+        "name": "Women's Floral Dress",
+        "brand": "ChicStyle",
+        "size": "M",
+        "price": { "current": 2199, "original": 2599, "discount": "15%" },
+        "description": "Elegant floral dress for all occasions.",
+        "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 45,
+        "category": "fashion",
+        "name": "Casual Men's Jacket",
+        "brand": "TrendyWear",
+        "size": "L",
+        "price": { "current": 2999, "original": 3499, "discount": "14%" },
+        "description": "Stylish and comfortable jacket for casual outings.",
+        "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 46,
+        "category": "fashion",
+        "name": "Women's Floral Dress",
+        "brand": "ChicStyle",
+        "size": "M",
+        "price": { "current": 2199, "original": 2599, "discount": "15%" },
+        "description": "Elegant floral dress for all occasions.",
+        "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+          "id": 47,
+          "category": "fashion",
+          "name": "Casual Men's Jacket",
+          "brand": "TrendyWear",
+          "size": "L",
+          "price": { "current": 2999, "original": 3499, "discount": "14%" },
+          "description": "Stylish and comfortable jacket for casual outings.",
+          "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+          "id": 48,
+          "category": "fashion",
+          "name": "Women's Floral Dress",
+          "brand": "ChicStyle",
+          "size": "M",
+          "price": { "current": 2199, "original": 2599, "discount": "15%" },
+          "description": "Elegant floral dress for all occasions.",
+          "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 49,
+            "category": "fashion",
+            "name": "Casual Men's Jacket",
+            "brand": "TrendyWear",
+            "size": "L",
+            "price": { "current": 2999, "original": 3499, "discount": "14%" },
+            "description": "Stylish and comfortable jacket for casual outings.",
+            "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 50,
+            "category": "fashion",
+            "name": "Women's Floral Dress",
+            "brand": "ChicStyle",
+            "size": "M",
+            "price": { "current": 2199, "original": 2599, "discount": "15%" },
+            "description": "Elegant floral dress for all occasions.",
+            "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+              "id": 51,
+              "category": "fashion",
+              "name": "Casual Men's Jacket",
+              "brand": "TrendyWear",
+              "size": "L",
+              "price": { "current": 2999, "original": 3499, "discount": "14%" },
+              "description": "Stylish and comfortable jacket for casual outings.",
+              "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 52,
+              "category": "fashion",
+              "name": "Women's Floral Dress",
+              "brand": "ChicStyle",
+              "size": "M",
+              "price": { "current": 2199, "original": 2599, "discount": "15%" },
+              "description": "Elegant floral dress for all occasions.",
+              "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 53,
+              "category": "fashion",
+              "name": "Casual Men's Jacket",
+              "brand": "TrendyWear",
+              "size": "L",
+              "price": { "current": 2999, "original": 3499, "discount": "14%" },
+              "description": "Stylish and comfortable jacket for casual outings.",
+              "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 54,
+              "category": "fashion",
+              "name": "Women's Floral Dress",
+              "brand": "ChicStyle",
+              "size": "M",
+              "price": { "current": 2199, "original": 2599, "discount": "15%" },
+              "description": "Elegant floral dress for all occasions.",
+              "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "id": 55,
+                "category": "fashion",
+                "name": "Casual Men's Jacket",
+                "brand": "TrendyWear",
+                "size": "L",
+                "price": { "current": 2999, "original": 3499, "discount": "14%" },
+                "description": "Stylish and comfortable jacket for casual outings.",
+                "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 56,
+                "category": "fashion",
+                "name": "Women's Floral Dress",
+                "brand": "ChicStyle",
+                "size": "M",
+                "price": { "current": 2199, "original": 2599, "discount": "15%" },
+                "description": "Elegant floral dress for all occasions.",
+                "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 57,
+                "category": "fashion",
+                "name": "Casual Men's Jacket",
+                "brand": "TrendyWear",
+                "size": "L",
+                "price": { "current": 2999, "original": 3499, "discount": "14%" },
+                "description": "Stylish and comfortable jacket for casual outings.",
+                "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+              },
+              {
+                "id": 58,
+                "category": "fashion",
+                "name": "Women's Floral Dress",
+                "brand": "ChicStyle",
+                "size": "M",
+                "price": { "current": 2199, "original": 2599, "discount": "15%" },
+                "description": "Elegant floral dress for all occasions.",
+                "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+              },
+              {
+                  "id": 59,
+                  "category": "fashion",
+                  "name": "Casual Men's Jacket",
+                  "brand": "TrendyWear",
+                  "size": "L",
+                  "price": { "current": 2999, "original": 3499, "discount": "14%" },
+                  "description": "Stylish and comfortable jacket for casual outings.",
+                  "image": "https://m.media-amazon.com/images/I/71o7b6YJMfL._AC_UY327_FMwebp_QL65_.jpg"
+                },
+                {
+                  "id": 60,
+                  "category": "fashion",
+                  "name": "Women's Floral Dress",
+                  "brand": "ChicStyle",
+                  "size": "M",
+                  "price": { "current": 2199, "original": 2599, "discount": "15%" },
+                  "description": "Elegant floral dress for all occasions.",
+                  "image": "https://m.media-amazon.com/images/I/61-5qR+ZGEL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+    {
+      "id": 61,
+      "category": "laptop",
+      "name": "HP Pavilion 15",
+      "brand": "HP",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "price": { "current": 74999, "original": 79999, "discount": "6%" },
+      "description": "Powerful laptop with Ryzen 7 and Full HD display.",
+      "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 62,
+      "category": "laptop",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "price": { "current": 124999, "original": 129999, "discount": "4%" },
+      "description": "Ultra-slim laptop with 4K display and Intel Evo platform.",
+      "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 63,
+        "category": "laptop",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "price": { "current": 74999, "original": 79999, "discount": "6%" },
+        "description": "Powerful laptop with Ryzen 7 and Full HD display.",
+        "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 64,
+        "category": "laptop",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "price": { "current": 124999, "original": 129999, "discount": "4%" },
+        "description": "Ultra-slim laptop with 4K display and Intel Evo platform.",
+        "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY327_FMwebp_QL65_.jpg"
+      },{
+        "id": 65,
+        "category": "laptop",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "price": { "current": 74999, "original": 79999, "discount": "6%" },
+        "description": "Powerful laptop with Ryzen 7 and Full HD display.",
+        "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 66,
+        "category": "laptop",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "price": { "current": 124999, "original": 129999, "discount": "4%" },
+        "description": "Ultra-slim laptop with 4K display and Intel Evo platform.",
+        "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 67,
+        "category": "laptop",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "price": { "current": 74999, "original": 79999, "discount": "6%" },
+        "description": "Powerful laptop with Ryzen 7 and Full HD display.",
+        "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 68,
+        "category": "laptop",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "price": { "current": 124999, "original": 129999, "discount": "4%" },
+        "description": "Ultra-slim laptop with 4K display and Intel Evo platform.",
+        "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY327_FMwebp_QL65_.jpg"
+      },{
+        "id": 69,
+        "category": "laptop",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "ram": "16 GB",
+        "storage": "512 GB SSD",
+        "price": { "current": 74999, "original": 79999, "discount": "6%" },
+        "description": "Powerful laptop with Ryzen 7 and Full HD display.",
+        "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 70,
+        "category": "laptop",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "price": { "current": 124999, "original": 129999, "discount": "4%" },
+        "description": "Ultra-slim laptop with 4K display and Intel Evo platform.",
+        "image": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+    {
+      "id": 81,
+      "category": "home",
+      "name": "Luxury Bedsheet Set",
+      "brand": "HomeLux",
+      "size": "King",
+      "price": { "current": 1999, "original": 2499, "discount": "20%" },
+      "description": "Premium cotton bedsheet set with pillow covers.",
+      "image": "https://m.media-amazon.com/images/I/91PIz421NyL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 82,
+      "category": "home",
+      "name": "Decorative Wall Clock",
+      "brand": "TimeSquare",
+      "size": "Large",
+      "price": { "current": 1499, "original": 1799, "discount": "17%" },
+      "description": "Stylish wall clock to enhance your home decor.",
+      "image": "https://m.media-amazon.com/images/I/81uzLHSzN2L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 81,
+        "category": "home",
+        "name": "Luxury Bedsheet Set",
+        "brand": "HomeLux",
+        "size": "King",
+        "price": { "current": 1999, "original": 2499, "discount": "20%" },
+        "description": "Premium cotton bedsheet set with pillow covers.",
+        "image": "https://m.media-amazon.com/images/I/51Nsx8Uw5-L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 82,
+        "category": "home",
+        "name": "Decorative Wall Clock",
+        "brand": "TimeSquare",
+        "size": "Large",
+        "price": { "current": 1499, "original": 1799, "discount": "17%" },
+        "description": "Stylish wall clock to enhance your home decor.",
+        "image": "https://m.media-amazon.com/images/I/51eoKWxpEQL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 83,
+        "category": "home",
+        "name": "Designer Table Lamp",
+        "brand": "GlowBright",
+        "size": "Medium",
+        "price": { "current": 2299, "original": 2799, "discount": "18%" },
+        "description": "A modern table lamp perfect for creating a cozy ambiance.",
+        "image": "https://m.media-amazon.com/images/I/61v0BuK+r2L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 84,
+        "category": "home",
+        "name": "Premium Sofa Cover",
+        "brand": "ComfyFit",
+        "size": "3-Seater",
+        "price": { "current": 1899, "original": 2299, "discount": "17%" },
+        "description": "Stretchable and durable sofa cover for a neat look.",
+        "image": "https://m.media-amazon.com/images/I/81uzLHSzN2L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 85,
+        "category": "home",
+        "name": "Ceramic Flower Vase",
+        "brand": "DecoStyle",
+        "size": "15-inch",
+        "price": { "current": 999, "original": 1299, "discount": "23%" },
+        "description": "Elegant ceramic vase perfect for fresh or artificial flowers.",
+        "image": "https://m.media-amazon.com/images/I/51Nsx8Uw5-L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 86,
+        "category": "home",
+        "name": "Bathroom Accessory Set",
+        "brand": "AquaSense",
+        "size": "5-piece",
+        "price": { "current": 1499, "original": 1799, "discount": "16%" },
+        "description": "A complete set of bathroom essentials to keep things organized.",
+        "image": "https://m.media-amazon.com/images/I/51eoKWxpEQL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 87,
+        "category": "home",
+        "name": "Soft Cotton Bath Towels",
+        "brand": "TowelTrendy",
+        "size": "Large",
+        "price": { "current": 799, "original": 999, "discount": "20%" },
+        "description": "Highly absorbent and soft towels for daily use.",
+        "image": "https://m.media-amazon.com/images/I/61v0BuK+r2L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 88,
+        "category": "home",
+        "name": "Modern Bookshelf",
+        "brand": "WoodCraft",
+        "size": "5-Tier",
+        "price": { "current": 3599, "original": 3999, "discount": "10%" },
+        "description": "Stylish and sturdy bookshelf to organize your space.",
+        "image": "https://m.media-amazon.com/images/I/81uzLHSzN2L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+    {
+      "id": 89,
+      "category": "electronics",
+      "name": "Wireless Earbuds",
+      "brand": "SoundBeat",
+      "battery_life": "20 hours",
+      "price": { "current": 3999, "original": 4499, "discount": "11%" },
+      "description": "High-quality sound with noise cancellation.",
+      "image": "https://m.media-amazon.com/images/I/81diUrv+yiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 90,
+      "category": "electronics",
+      "name": "Smartwatch X5",
+      "brand": "TechWear",
+      "battery_life": "7 days",
+      "price": { "current": 4999, "original": 5999, "discount": "17%" },
+      "description": "Feature-packed smartwatch with health monitoring.",
+      "image": "https://m.media-amazon.com/images/I/71evh+4lnLL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 91,
+        "category": "electronics",
+        "name": "Wireless Earbuds",
+        "brand": "SoundBeat",
+        "battery_life": "20 hours",
+        "price": { "current": 3999, "original": 4499, "discount": "11%" },
+        "description": "High-quality sound with noise cancellation.",
+        "image": "https://m.media-amazon.com/images/I/814uYcqrtoL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 92,
+        "category": "electronics",
+        "name": "Smartwatch Pro",
+        "brand": "TechWear",
+        "battery_life": "7 days",
+        "price": { "current": 7999, "original": 8999, "discount": "11%" },
+        "description": "Advanced smartwatch with fitness tracking and notifications.",
+        "image": "https://m.media-amazon.com/images/I/61mOVGinDdL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 93,
+        "category": "electronics",
+        "name": "Bluetooth Speaker",
+        "brand": "SoundVibes",
+        "battery_life": "15 hours",
+        "price": { "current": 2499, "original": 2999, "discount": "17%" },
+        "description": "Portable speaker with deep bass and crystal clear sound.",
+        "image": "https://m.media-amazon.com/images/I/31N9DJnFPVL._SY445_SX342_QL70_FMwebp_.jpg"
+      },
+      {
+        "id": 94,
+        "category": "electronics",
+        "name": "Gaming Headset",
+        "brand": "GamePower",
+        "battery_life": "30 hours",
+        "price": { "current": 5999, "original": 6999, "discount": "14%" },
+        "description": "Immersive surround sound with noise-canceling microphone.",
+        "image": "https://m.media-amazon.com/images/I/31R5MAzl9WL._SX342_SY445_QL70_FMwebp_.jpg"
+      },
+      {
+        "id": 95,
+        "category": "electronics",
+        "name": "Smart TV",
+        "brand": "VisionMax",
+        "battery_life": "N/A",
+        "price": { "current": 34999, "original": 39999, "discount": "12%" },
+        "description": "Ultra HD 4K Smart TV with Dolby Vision and Alexa support.",
+        "image": "https://m.media-amazon.com/images/I/41FH3jb4G4L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 96,
+        "category": "electronics",
+        "name": "Noise-Canceling Headphones",
+        "brand": "SilentAudio",
+        "battery_life": "40 hours",
+        "price": { "current": 9999, "original": 10999, "discount": "9%" },
+        "description": "Premium headphones with active noise cancellation technology.",
+        "image": "https://m.media-amazon.com/images/I/81diUrv+yiL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 97,
+        "category": "electronics",
+        "name": "Home Security Camera",
+        "brand": "SafeVision",
+        "battery_life": "N/A",
+        "price": { "current": 2999, "original": 3499, "discount": "14%" },
+        "description": "Wireless security camera with motion detection and night vision.",
+        "image": "https://m.media-amazon.com/images/I/61yEHU+9kqL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 98,
+        "category": "electronics",
+        "name": "Tablet X10",
+        "brand": "TabTech",
+        "battery_life": "10 hours",
+        "price": { "current": 12999, "original": 13999, "discount": "7%" },
+        "description": "Lightweight tablet with 10-inch HD display and expandable storage.",
+        "image": "https://m.media-amazon.com/images/I/71evh+4lnLL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+    {
+      "id": 99,
+      "category": "toys",
+      "name": "Remote Control Car",
+      "brand": "FunWheels",
+      "age_group": "6+ years",
+      "price": { "current": 1599, "original": 1999, "discount": "20%" },
+      "description": "Fast and exciting remote-controlled car for kids.",
+      "image": "https://m.media-amazon.com/images/I/51mHC9zqABL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 100,
+      "category": "toys",
+      "name": "Building Block Set",
+      "brand": "Creativa",
+      "age_group": "3+ years",
+      "price": { "current": 999, "original": 1199, "discount": "17%" },
+      "description": "Colorful blocks for endless creativity.",
+      "image": "https://m.media-amazon.com/images/I/31N9DJnFPVL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 101,
+      "category": "bikes",
+      "name": "Sports Mountain Bike",
+      "brand": "SpeedRide",
+      "gears": "21-speed",
+      "price": { "current": 15999, "original": 17999, "discount": "11%" },
+      "description": "Durable and stylish mountain bike for all terrains.",
+      "image": "https://m.media-amazon.com/images/I/81oqHV52yoL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 102,
+      "category": "bikes",
+      "name": "Kids Bicycle",
+      "brand": "RideOn",
+      "gears": "Single speed",
+      "price": { "current": 5499, "original": 5999, "discount": "8%" },
+      "description": "Safe and fun bicycle for kids.",
+      "image": "https://m.media-amazon.com/images/I/71yWRvA3bFL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}
+

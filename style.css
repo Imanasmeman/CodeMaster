@@ -268,3 +268,21 @@
     padding-left: 25px;
     padding-right: 10px;
 }
+
+.belowNavBar > div:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+.heroSection {
+    cursor: pointer;
+
+}
+.viewAllSection :hover{
+    cursor: pointer;
+    background-color: blueviolet;
+
+}
+.buyNowText:hover{
+    cursor: pointer;
+    color: blueviolet;
+}
