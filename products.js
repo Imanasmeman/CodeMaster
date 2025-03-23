@@ -1,4 +1,4 @@
-// Function to get the category from the URL query parameter "cat"
+
 function getCategoryFromURL() {
     const params = new URLSearchParams(window.location.search);
     return params.get("cat"); // Get the 'cat' parameter
@@ -10,8 +10,7 @@ const categoryTitleElement = document.getElementById("categoryTitle");
 if (categoryTitleElement) {
     categoryTitleElement.innerText = category ? category : "All Products";
 }
-
-let products = [];
+products = [];
 
 // Fetch data from Firebase Realtime Database
 fetch('https://codemaster-20c2a-default-rtdb.asia-southeast1.firebasedatabase.app/products.json')
@@ -63,6 +62,7 @@ function displayProducts(filteredProducts = products) {
             <p>${product.color ? `<strong>Color:</strong> ${product.color}` : ''} 
                ${product.storage ? `| <strong>Storage:</strong> ${product.storage}` : ''} 
                ${product.ram ? `| <strong>RAM:</strong> ${product.ram}` : ''}</p>
+            <button class="addCartButton">Add to Cart</button>
         `;
         container.appendChild(card);
     });
@@ -70,8 +70,8 @@ function displayProducts(filteredProducts = products) {
 
 // Search functionality
 function searchProducts() {
-    const query = document.getElementById("searchBar")?.value.toLowerCase();
-    if (!query) return;
+    const query = document.getElementById("searchInput")?.value.toLowerCase();
+    if (query === undefined) return;
 
     const filtered = products.filter(product => 
         product.name.toLowerCase().includes(query) || 
