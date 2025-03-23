@@ -1,4 +1,4 @@
-
+// Function to get the 'category' parameter from the URL
 function getCategoryFromURL() {
     const params = new URLSearchParams(window.location.search);
     return params.get("cat"); // Get the 'cat' parameter
@@ -10,9 +10,9 @@ const categoryTitleElement = document.getElementById("categoryTitle");
 if (categoryTitleElement) {
     categoryTitleElement.innerText = category ? category : "All Products";
 }
-products = [];
 
 // Fetch data from Firebase Realtime Database
+let products = [];
 fetch('https://codemaster-20c2a-default-rtdb.asia-southeast1.firebasedatabase.app/products.json')
     .then(response => response.json())
     .then(data => {
@@ -23,6 +23,7 @@ fetch('https://codemaster-20c2a-default-rtdb.asia-southeast1.firebasedatabase.ap
 
         products = Object.values(data); // Convert Firebase object into an array
         displayProducts();
+        searchQuerypram();  // Call search function after fetching products
     })
     .catch(error => {
         console.error("Error fetching data:", error);
@@ -32,13 +33,28 @@ fetch('https://codemaster-20c2a-default-rtdb.asia-southeast1.firebasedatabase.ap
         }
     });
 
+// Function to handle search query from URL
+function searchQuerypram() {
+    let urlParams = new URLSearchParams(window.location.search);
+    let searchQuery = urlParams.get("search");
+
+    if (searchQuery) {
+        let searchInputElement = document.getElementById("searchInput");
+        if (searchInputElement) {
+            searchInputElement.value = searchQuery;  // Update search box value
+        }
+        searchProducts(searchQuery.toLowerCase());
+    }
+}
+
+// Function to display products
 function displayProducts(filteredProducts = products) {
     const container = document.getElementById("productsContainer");
     if (!container) return;
 
     container.innerHTML = ""; // Clear previous content
 
-    // Filter products based on the category from URL
+    // Filter products based on category from URL
     let finalProducts = category 
         ? filteredProducts.filter(product => product.category?.toLowerCase() === category.toLowerCase()) 
         : filteredProducts;
@@ -69,18 +85,20 @@ function displayProducts(filteredProducts = products) {
 }
 
 // Search functionality
-function searchProducts() {
-    const query = document.getElementById("searchInput")?.value.toLowerCase();
-    if (query === undefined) return;
+function searchProducts(query) {
+    if (!query) {
+        query = document.getElementById("searchInput")?.value.toLowerCase();
+    }
+    if (!query) return;
 
     const filtered = products.filter(product => 
-        product.name.toLowerCase().includes(query) || 
-        product.category.toLowerCase().includes(query)
+        product.name?.toLowerCase().includes(query) || 
+        product.category?.toLowerCase().includes(query)
     );
     displayProducts(filtered);
 }
 
-// Sort functionality
+// Sorting functionality
 function sortProducts(order) {
     let sortedProducts = [...products];
 
@@ -96,3 +114,6 @@ function sortProducts(order) {
 
     displayProducts(sortedProducts);
 }
+function alertf(){
+    alert("will be availble soon")
+  }

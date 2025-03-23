@@ -16,11 +16,22 @@
     justify-content: space-evenly;
 }
 
+.becomeSellerBox {
+    cursor: pointer;
+}
+
+.moreBox{
+    cursor: pointer;
+
+}
+.cartBox {
+    cursor: pointer;
+}
 
 
 .flipkart-logo {
-    width: 75px;
-    height: 20.11px;
+    
+    height: 30px;
     margin-top: 15px;
 }
 
