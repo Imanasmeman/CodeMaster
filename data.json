@@ -201,9 +201,8 @@
                   "description": "Protein-rich brown lentils for healthy meals.",
                   "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg"
                 },
-    {
-      "id": 20,
-      "category": "mobile",
+             { "id": 20,
+                "category": "mobile",
       "name": "Samsung Galaxy S23",
       "brand": "Samsung",
       "ram": "8 GB",
